@@ -35,4 +35,4 @@ I created a website for a photographer, it was a project at the university(HTML/
 Also in my experience there is a website creation with the solution of certain problems of coding information [http://annkader.gear.host/](http://annkader.gear.host/)(HTML/CSS, C#).  
 I solve tasks on freeCodeCamp and SoloLearn.  
 Currently at the university we perform various tasks on JS and mobile application development (Java).
-in the summer I finished frontend courses (HTML5/ CSS3/ JS) in "Belhard".
+In the summer I finished frontend courses (HTML5/ CSS3/ JS) in "Belhard".
