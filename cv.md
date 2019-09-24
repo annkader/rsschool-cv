@@ -8,8 +8,8 @@
 
 * __tel__: +375291977388  
 * __e-mail__: annkaderrr@gmail.com  
-* [__LinkedIn__]: (https://www.linkedin.com/in/hanna-kadzer-73b470164/)  
-* [__Github__]: (https://github.com/annkader)
+* [LinkedIn] (https://www.linkedin.com/in/hanna-kadzer-73b470164/)  
+* [Github] (https://github.com/annkader)
 
 ### Summary
 
