@@ -19,3 +19,7 @@ I have a passion for problem-solving and the ability to balance thinking about b
 I am attracted to the fact that there’s always something new to learn and you’ll always stay on your toes, expanding your knowledge.  
 I try to catch every opportunity for styding.  
 Also I have strong communication skills and ability to work in a team, I am ready to change my opinion upon discussing with teammates or uncovering new information.
+
+### Skills
+
+Basic knowledge of __C++, C#, JS, Java, HTML/CSS__, understanding of __object-oriented programming__.
