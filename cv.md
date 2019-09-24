@@ -23,3 +23,8 @@ Also I have strong communication skills and ability to work in a team, I am read
 ### Skills
 
 Basic knowledge of __C++, C#, JS, Java, HTML/CSS__, understanding of __object-oriented programming__.
+
+### Code examples
+
+* [http://annkader.gear.host/](http://annkader.gear.host/) 
+* [https://github.com/annkader](https://github.com/annkader)
