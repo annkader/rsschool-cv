@@ -36,3 +36,20 @@ Also in my experience there is a website creation with the solution of certain p
 I solve tasks on freeCodeCamp and SoloLearn.  
 Currently at the university we perform various tasks on JS and mobile application development (Java).
 In the summer I finished frontend courses (HTML5/ CSS3/ JS) in "Belhard".
+
+### Education
+
+* School of Business of BSU, Information Resources Management  
+* CodeAcademy: HTML and CSS courses  
+* freeCodeCamp  
+* SoloLearn: HTML, CSS, JS  
+* Htmlbook
+* Belhard Academy  
+
+### English
+
+* Upper-Intermediate level (__B2__).  
+* Eleven years of study English at the gymnasium and three years at university,
+extra classes with a tutor, Courses of spoken English in the language school "Polyglot".  
+* Practice in the USA for three months (as Work&Travel participant).
+
